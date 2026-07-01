@@ -1,1 +1,15 @@
 
+{
+  "name": "mowery-bd-office",
+  "owner": {
+    "name": "Bill Sutton"
+  },
+  "plugins": [
+    {
+      "name": "mowery-bd-office",
+      "source": "./plugins/mowery-bd-office",
+      "version": "0.1.0",
+      "description": "Bill Sutton's five-agent BD office for Mowery Construction. Call signs: Scout (prospecting), Chase (pipeline progression), Quill (collateral: quals + RFPs), Sage (analytics: hit rate + profitability), and Ace (chief of staff: email + calendar). Dispatch any unit by name."
+    }
+  ]
+}
